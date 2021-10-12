@@ -1,0 +1,11 @@
+id: bbcow
+name: bbcow
+author:
+  name: muyu
+  website: https://www.bbcow.com
+description: 简单的没有风格名字
+logo: https://avatars.githubusercontent.com/u/5645103?s=60&v=4
+website: https://www.bbcow.com
+repo: https://github.com/cross266/halo-theme-iwtwin
+version: 1.0.0
+require: 1.4.8
